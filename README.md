@@ -19,4 +19,4 @@ I specialize in the intersection of **Computational Linguistics** and **Generati
 - **AI/ML:** PyTorch, Hugging Face Transformers, LangChain, LlamaIndex
 - **Specialties:** NLP, LLM Fine-tuning, Vector Databases, RAG, Multilingual Data Engineering, Localization Technology.
 
-**"Turning linguistic complexity into intelligent data assets."**
+**Turning linguistic complexity into intelligent data assets.**
